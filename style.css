@@ -1,0 +1,15 @@
+ .carousel-caption.d-none.d-md-block{
+        position: absolute;
+        top: 50%;
+      }
+      .carousel-indicators{
+        top: 70%;
+      }
+      .carousel-item img{
+        height:calc(100vh - 60px);
+        object-fit: cover;
+      }
+      .fixing{
+        width: 500px;
+        height: 350px;
+      }
